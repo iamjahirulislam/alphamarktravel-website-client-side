@@ -45,7 +45,7 @@ const NavBar = () => {
                             {
                                 user.email ? (
                                     <div>
-                                        <Navbar.Text className="text-dark">Hello, {user?.displayName}</Navbar.Text>
+                                        <Navbar.Text className="text-light">Hello, {user?.displayName}</Navbar.Text>
                                         <button className="btn btn-light ms-2 login-register-btn" onClick={logOut}>logout</button>
                                     </div>
                                 ) : (

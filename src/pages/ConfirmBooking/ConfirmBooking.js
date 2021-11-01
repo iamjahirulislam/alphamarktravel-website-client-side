@@ -42,7 +42,7 @@ const ConfirmOrder = () => {
 
 
 
-        fetch('http://localhost:5000/orders', {
+        fetch('https://dry-spire-17726.herokuapp.com/orders', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

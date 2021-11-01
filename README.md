@@ -1,5 +1,5 @@
-# the Project Name is "World Tour BD"
-## live site link: https://world-tour-bd-work-11.web.app/home
+# the Project Name is "AlphaMark Travel"
+## live site link: https://alphamarktravel.web.app/
 
 ### 1. The project is belongs to Travel agency. 
 ### 2. In this project offered some services about tourist place.
