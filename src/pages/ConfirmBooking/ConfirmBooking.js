@@ -64,7 +64,7 @@ const ConfirmOrder = () => {
 
 
     useEffect(() => {
-        fetch(`http://localhost:5000/services/${id}`)
+        fetch(`https://dry-spire-17726.herokuapp.com/services/${id}`)
             .then(res => res.json())
             .then(data => setService(data))
     }, []);
